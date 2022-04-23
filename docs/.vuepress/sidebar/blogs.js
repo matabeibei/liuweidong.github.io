@@ -1,5 +1,5 @@
 module.exports = [
-  'blog1',
+  'java_basic',
   'blog2',
   'blog3'
 ]

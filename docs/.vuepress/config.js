@@ -11,7 +11,7 @@ module.exports = {
     themeConfig: {
         nav: require('./nav'),
         sidebar: require('./sidebar/index'),
-        // sidebarDepth: 3,
-        // lastUpdated: '上次更新'
+        sidebarDepth: 3,
+        lastUpdated: '上次更新'
     }
 }
