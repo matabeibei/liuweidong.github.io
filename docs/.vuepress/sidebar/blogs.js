@@ -1,5 +1,7 @@
 module.exports = [
   'java_basic',
   'jvm',
-  'spring'
+  'spring',
+  'redis',
+  'Mysql'
 ]
